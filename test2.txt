@@ -3,3 +3,5 @@ Yet another test.
 Added more source code.
 
 Even more changes
+
+Time for diff test
